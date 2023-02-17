@@ -27,7 +27,7 @@ This is not a way to download Rust for free. The server installation will allow 
 
 For assistance, please message me on Discord: lilciv#2944  
 
-Tested on Windows 10, and Windows Server 2019.
+Tested on Windows 10 and Windows Server 2019.  
 **NOTE**: For Windows 11, you will need to do the following beforehand:
 
 1. Open PowerShell as Administrator
