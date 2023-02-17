@@ -13,11 +13,11 @@ Navigate to SteamDB. Determine whether you are downloading client files or serve
 Click on the Common and Windows 64 depots and locate the Manifest IDs that you want.
 For example, May 5th, 2022 (Old Recoil) has the following Manifest IDs:
 
-**Client (Common):** `5939934877855656786`
-**Client (Windows 64):** `5702227544774217577`
-
-**Server (Common):** `8568126655709130498`
-**Server (Windows 64):** `7513979545449517167`
+**Client (Common):** `5939934877855656786`  
+**Client (Windows 64):** `5702227544774217577`  
+  
+**Server (Common):** `8568126655709130498`  
+**Server (Windows 64):** `7513979545449517167`  
 
 ## How To Use
 Right click on the RustDepotDownloader.ps1 file and choose "Run with PowerShell"
