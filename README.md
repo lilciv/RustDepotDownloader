@@ -6,9 +6,9 @@ This script will install a Rust Server or Client on your Windows machine using S
 ## How Do I Find the Version I Want?
 You can review the Facepunch Devblog (https://rust.facepunch.com/news/?category=devblog), which will have important dates that different versions of the game were released. You can take these dates over to SteamDB to find the corresponding Manifest IDs that you want.
 
-Navigate to SteamDB. Determine whether you are downloading client files or server files.
-**Client:** https://steamdb.info/app/252490/depots/
-**Server:** https://steamdb.info/app/258550/depots/
+Navigate to SteamDB. Determine whether you are downloading client files or server files.  
+**Client:** https://steamdb.info/app/252490/depots/  
+**Server:** https://steamdb.info/app/258550/depots/  
 
 Click on the Common and Windows 64 depots and locate the Manifest IDs that you want.
 For example, May 5th, 2022 (Old Recoil) has the following Manifest IDs:
