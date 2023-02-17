@@ -1,7 +1,8 @@
 
 # Rust Depot Downloader
 
-This script will install a Rust Server or Client on your Windows machine using SteamDB Manifest IDs. All files are downloaded through SteamCMD.
+This script will install a Rust Server or Client on your Windows machine using SteamDB Manifest IDs. All files are downloaded through SteamCMD.  
+This script will combine all required client or server files into one specified location. That means no manually combining files to have a complete set.
 
 ## How Do I Find the Version I Want?
 You can review the Facepunch Devblog (https://rust.facepunch.com/news/?category=devblog), which will have important dates that different versions of the game were released. You can take these dates over to SteamDB to find the corresponding Manifest IDs that you want.
